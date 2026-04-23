@@ -8,12 +8,14 @@
 	<RootNamespace>GameResource</RootNamespace>
   </PropertyGroup>
 	<PropertyGroup>
-		<AssemblyTitle>Ryuusei Manager Game Resources</AssemblyTitle>
-		<Product>RyuuseiManager GameRes</Product>
-
-		<Version>1.0.0.5</Version>
-		<AssemblyVersion>1.0.0.5</AssemblyVersion>
-		<FileVersion>1.0.0.5</FileVersion>
+	  <AssemblyName>GameResource</AssemblyName>
+	</PropertyGroup>
+	<PropertyGroup>
+	  <AssemblyTitle>Ryuusei Manager Game Resources</AssemblyTitle>
+	  <Product>MMSF Resources for RyuuseiManager</Product>
+	  <Version>1.0.0.7</Version>
+	  <AssemblyVersion>1.0.0.7</AssemblyVersion>
+	  <FileVersion>1.0.0.7</FileVersion>
 	</PropertyGroup>
 	<ItemGroup>
 	  <None Remove="Resources\**\*.png" />
