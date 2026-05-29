@@ -13,9 +13,9 @@
 	<PropertyGroup>
 	  <AssemblyTitle>Ryuusei Manager Game Resources</AssemblyTitle>
 	  <Product>MMSF Resources for RyuuseiManager</Product>
-	  <Version>1.0.1.2</Version>
-	  <AssemblyVersion>1.0.1.2</AssemblyVersion>
-	  <FileVersion>1.0.1.2</FileVersion>
+	  <Version>1.0.1.3</Version>
+	  <AssemblyVersion>1.0.1.3</AssemblyVersion>
+	  <FileVersion>1.0.1.3</FileVersion>
 	</PropertyGroup>
 	<ItemGroup>
 	  <None Remove="Resources\**\*.png" />
